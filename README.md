@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="https://apps.apple.com/app/id1452689527" target="_blank">
 <img src="https://user-images.githubusercontent.com/26833433/85940594-2d3f7d80-b8d2-11ea-809a-87b3bf6d968b.jpg" width="1000"></a>
 &nbsp
@@ -178,3 +179,6 @@ For business inquiries and professional support requests please visit us at http
 ## Contact
 
 **Issues should be raised directly in the repository.** For business inquiries or professional support requests please visit https://www.ultralytics.com or email Glenn Jocher at glenn.jocher@ultralytics.com. 
+=======
+# rede_neural_laranja_maca_adolfo
+>>>>>>> 611458ff8a84b0c6bf28dfce463a2c5cf7f319d8
