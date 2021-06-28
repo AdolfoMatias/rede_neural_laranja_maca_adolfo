@@ -1,0 +1,12 @@
+./dataset/valid\redi_banana-banana_48.jpg
+./dataset/valid\redi_banana-banana_78.jpg
+./dataset/valid\redi_banana-banana_84.jpg
+./dataset/valid\redi_banana-banana_90.jpg
+./dataset/valid\redi_laranja-orange_31.jpg
+./dataset/valid\redi_laranja-orange_36.jpg
+./dataset/valid\redi_laranja-orange_55.jpg
+./dataset/valid\redi_laranja-orange_64.jpg
+./dataset/valid\redi_maca-apple_50.jpg
+./dataset/valid\redi_maca-apple_69.jpg
+./dataset/valid\redi_maca-apple_71.jpg
+./dataset/valid\redi_maca-apple_89.jpg

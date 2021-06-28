@@ -1,0 +1,9 @@
+# Execução
+python3 train.py --data projeto/especializacao.data --cfg projeto/especializacao.cfg --weight projeto/yolov3-tiny.conv.15 --batch-size 8 --device 0
+
+# Plotar Resultados
+python3 -c "from utils import utils; utils.plot_results()"
+python3 -c "from utils import utils; utils.plot_results_overlay()"
+
+# problemas para abrir windonws na GPU
+export DISPLAY=:0
